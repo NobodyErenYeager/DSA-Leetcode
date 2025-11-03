@@ -1,0 +1,153 @@
+01 - Start Here
+	(1280, 720) | 001 Overview (Please Watch).mp4
+	(1280, 720) | 002 Code Editor.mp4
+02 - Big O
+	(1280, 720) | 001 Big O Intro.mp4
+	(1280, 720) | 002 Big O Worst Case.mp4
+	(1280, 720) | 003 Big O O(n).mp4
+	(1280, 720) | 005 Big O Drop Constants.mp4
+	(1280, 720) | 006 Big O O(n^2).mp4
+	(1280, 720) | 008 Big O Drop Non-Dominants.mp4
+	(1280, 720) | 009 Big O O(1).mp4
+	(1280, 720) | 010 Big O O(log n).mp4
+	(1280, 720) | 011 Big O Different Terms for Inputs.mp4
+	(1280, 720) | 012 Big O Lists.mp4
+	(1280, 720) | 013 Big O Wrap Up.mp4
+03 - Classes & Pointers
+	(1280, 720) | 001 Classes.mp4
+	(1280, 720) | 002 Pointers.mp4
+04 - Linked Lists
+	(1280, 720) | 001 Linked List Intro.mp4
+	(1280, 720) | 002 LL Big O.mp4
+	(1280, 720) | 003 LL Under the Hood.mp4
+	(1280, 720) | 004 LL Constructor.mp4
+	(1280, 720) | 005 Coding Exercises (Important).mp4
+	(1280, 720) | 006 LL Print List.mp4
+	(1280, 720) | 007 LL Append.mp4
+	(1280, 720) | 008 LL Pop Intro.mp4
+	(1280, 720) | 009 LL Pop Code.mp4
+	(1280, 720) | 010 LL Prepend.mp4
+	(1280, 720) | 011 LL Pop First.mp4
+	(1280, 720) | 012 LL Get.mp4
+	(1280, 720) | 013 LL Set.mp4
+	(1280, 720) | 014 LL Insert.mp4
+	(1280, 720) | 015 LL Remove.mp4
+	(1280, 720) | 016 LL Reverse.mp4
+05 - LL Coding Exercises
+06 - LL Interview  LeetCode Exercises
+07 - Doubly Linked Lists
+	(1280, 720) | 001 DLL Constructor.mp4
+	(1280, 720) | 002 DLL Append.mp4
+	(1280, 720) | 003 DLL Pop.mp4
+	(1280, 720) | 004 DLL Prepend.mp4
+	(1280, 720) | 005 DLL Pop First.mp4
+	(1280, 720) | 006 DLL Get.mp4
+	(1280, 720) | 007 DLL Set.mp4
+	(1280, 720) | 008 DLL Insert.mp4
+	(1280, 720) | 009 DLL Remove.mp4
+08 - DLL Coding Exercises
+09 - DLL Interview  LeetCode Exercises
+10 - Stacks & Queues
+	(1280, 720) | 001 Stack Intro.mp4
+	(1280, 720) | 002 Stack Constructor.mp4
+	(1280, 720) | 003 Stack Push.mp4
+	(1280, 720) | 004 Stack Pop.mp4
+	(1280, 720) | 005 Queue Intro.mp4
+	(1280, 720) | 006 Queue Constructor.mp4
+	(1280, 720) | 007 Queue Enqueue.mp4
+	(1280, 720) | 008 Queue Dequeue.mp4
+11 - S&Q Coding Exercises
+12 - S&Q Interview  LeetCode Exercises
+13 - Trees
+	(1280, 720) | 001 Trees Intro & Terminology.mp4
+	(1280, 720) | 002 Binary Search Trees Example.mp4
+	(1280, 720) | 003 BST Big O.mp4
+	(1280, 720) | 004 BST Constructor.mp4
+	(1280, 720) | 005 BST Insert - Intro.mp4
+	(1280, 720) | 006 BST Insert - Code.mp4
+	(1280, 720) | 007 BST Contains.mp4
+14 - BST Coding Exercises
+15 - Hash Tables
+	(1280, 720) | 001 Hash Table Intro.mp4
+	(1280, 720) | 002 HT Collisions.mp4
+	(1280, 720) | 003 HT Constructor.mp4
+	(1280, 720) | 004 HT Set.mp4
+	(1280, 720) | 005 HT Get.mp4
+	(1280, 720) | 006 HT Keys.mp4
+	(1280, 720) | 007 HT Big O.mp4
+	(1280, 720) | 008 HT Interview Question.mp4
+16 - HT Coding Exercises
+17 - HT Interview  LeetCode Exercises
+18 - Graphs
+	(1280, 720) | 001 Graph Intro.mp4
+	(1280, 720) | 002 Graph Adjacency Matrix.mp4
+	(1280, 720) | 003 Graph Adjacency List.mp4
+	(1280, 720) | 004 Graph Big O.mp4
+	(1280, 720) | 005 Graph Add Vertex.mp4
+	(1280, 720) | 006 Graph Add Edge.mp4
+	(1280, 720) | 007 Graph Remove Edge.mp4
+	(1280, 720) | 008 Graph Remove Vertex.mp4
+19 - Graph Coding Exercises
+20 - Heaps
+	(1280, 720) | 001 Heap Intro.mp4
+	(1280, 720) | 002 Heap Insert (Intro).mp4
+	(1280, 720) | 003 Heap Helper Methods.mp4
+	(1280, 720) | 004 Heap Insert (Code).mp4
+	(1280, 720) | 005 Heap Remove.mp4
+	(1280, 720) | 006 Heap Sink Down.mp4
+	(1280, 720) | 007 Heap Priority Queues & Big O.mp4
+21 - Heap Coding Exercises
+22 - Heap Interview  LeetCode Exercises
+23 - Recursion
+	(1280, 720) | 001 Recursion Intro.mp4
+	(1280, 720) | 002 Call Stack.mp4
+	(1280, 720) | 003 Factorial.mp4
+24 - Recursive Binary Search Trees
+	(1280, 720) | 001 rBST Contains.mp4
+	(1280, 720) | 002 rBST Insert.mp4
+	(1280, 720) | 003 rBST Delete Intro.mp4
+	(1280, 720) | 004 rBST Delete Code (1 of 3).mp4
+	(1280, 720) | 005 rBST Delete Code (2 of 3).mp4
+	(1280, 720) | 006 rBST Minimum Value.mp4
+	(1280, 720) | 007 rBST Delete Code (3 of 3).mp4
+25 - rBST Coding Exercises
+26 - Tree Traversal
+	(1280, 720) | 001 Tree Traversal Intro.mp4
+	(1280, 720) | 002 BFS (Breadth First Search) Intro.mp4
+	(1280, 720) | 003 BFS Code.mp4
+	(1280, 720) | 004 DFS (Depth First Search) PreOrder - Intro.mp4
+	(1280, 720) | 005 DFS PreOrder - Code.mp4
+	(1280, 720) | 006 DFS PostOrder - Intro.mp4
+	(1280, 720) | 007 DFS PostOrder - Code.mp4
+	(1280, 720) | 008 DFS InOrder - Intro.mp4
+	(1280, 720) | 009 DFS InOrder - Code.mp4
+27 - BST Traversal Coding Exercises
+28 - BST Traversal Interview  LeetCode Exercises
+29 - Basic Sorts
+	(1280, 720) | 001 Bubble Sort Intro.mp4
+	(1280, 720) | 002 Bubble Sort Code.mp4
+	(1280, 720) | 003 Selection Sort Intro.mp4
+	(1280, 720) | 004 Selection Sort Code.mp4
+	(1280, 720) | 005 Insertion Sort Intro.mp4
+	(1280, 720) | 006 Insertion Sort Code.mp4
+	(1280, 720) | 007 Insertion Sort Big O.mp4
+30 - Basic Sorts Coding Exercises
+31 - Basic Sorts Interview  LeetCode Exercises
+32 - Merge Sort
+	(1280, 720) | 001 Merge Sort Overview.mp4
+	(1280, 720) | 002 Merge Intro.mp4
+	(1280, 720) | 003 Merge Code.mp4
+	(1280, 720) | 004 Merge Sort Intro.mp4
+	(1280, 720) | 005 Merge Sort Code.mp4
+	(1280, 720) | 006 Merge Sort Big O.mp4
+33 - Merge Sort Coding Exercises
+34 - Merge Interview  LeetCode Exercise
+35 - Quick Sort
+	(1280, 720) | 001 Quick Sort Intro.mp4
+	(1280, 720) | 002 Pivot Intro.mp4
+	(1280, 720) | 003 Pivot Code.mp4
+	(1280, 720) | 004 Quick Sort Code.mp4
+	(1280, 720) | 005 Quick Sort Big O.mp4
+36 - Quick Sort Coding Exercises
+37 - Other Interview  LeetCode Exercises
+38 - Coding Exercises
